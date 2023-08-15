@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.2944bd6d.css",
-    "main.js": "./static/js/main.c5d2ef09.js",
-    "static/js/787.3ae1f680.chunk.js": "./static/js/787.3ae1f680.chunk.js",
-    "index.html": "./index.html",
-    "main.2944bd6d.css.map": "./static/css/main.2944bd6d.css.map",
-    "main.c5d2ef09.js.map": "./static/js/main.c5d2ef09.js.map",
-    "787.3ae1f680.chunk.js.map": "./static/js/787.3ae1f680.chunk.js.map"
+    "main.css": "/wanted-pre-onboarding-frontend-dist/static/css/main.2944bd6d.css",
+    "main.js": "/wanted-pre-onboarding-frontend-dist/static/js/main.2e2ced51.js",
+    "static/js/787.3ae1f680.chunk.js": "/wanted-pre-onboarding-frontend-dist/static/js/787.3ae1f680.chunk.js",
+    "index.html": "/wanted-pre-onboarding-frontend-dist/index.html",
+    "main.2944bd6d.css.map": "/wanted-pre-onboarding-frontend-dist/static/css/main.2944bd6d.css.map",
+    "main.2e2ced51.js.map": "/wanted-pre-onboarding-frontend-dist/static/js/main.2e2ced51.js.map",
+    "787.3ae1f680.chunk.js.map": "/wanted-pre-onboarding-frontend-dist/static/js/787.3ae1f680.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2944bd6d.css",
-    "static/js/main.c5d2ef09.js"
+    "static/js/main.2e2ced51.js"
   ]
 }
